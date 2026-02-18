@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+streamlit
+streamlit-drawable-canvas
+pyngrok
+torch
+numpy
+Pillow
